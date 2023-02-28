@@ -7,20 +7,14 @@ The code is written in Python 3.10. The required packages are listed in `require
 
     pip install -r requirements.txt
 
-
-## Data
-The data for the L-NER task is available in the `data` folder. The data is organized as follows:
-
-- `NER_TRAIN`: contains the training data
-- `NER_DEV`: contains the development data
-- `NER_TEST`: contains the test data
-
-
 ## Code 
 The main code for the L-NER task allowing to fine-tune the models is available in the `main.py` script.  
 The `inference.py` script allows instead to predict the labels for the test set.
 
 The `utils` folder contains the code for the data loading and the evaluation.
+
+The data are not included in this repository as they are not yet publicly available.
+More information are provided in the [official SemEval-2023 Task 6 website](https://sites.google.com/view/legaleval/home).
 
 
 ## Usage
