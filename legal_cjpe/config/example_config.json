@@ -1,0 +1,7 @@
+{
+  "EPOCHS": 15,
+  "LR": 5e-5,
+  "WARMUP_RATIO": 0.06,
+  "WEIGHT_DECAY": 0.01,
+  "BATCH_SIZE": 64
+}
