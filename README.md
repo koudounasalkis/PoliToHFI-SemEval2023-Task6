@@ -11,7 +11,7 @@ Further details are available in the README files of the subfolders.
 ## Citation
 If you use this code, please cite the following paper:
 
-```
+```bibtex
 @inproceedings{benedetto-etal-2023-politohfi,
     title = "{P}oli{T}o{HFI} at {S}em{E}val-2023 Task 6: Leveraging Entity-Aware and Hierarchical Transformers For Legal Entity Recognition and Court Judgment Prediction",
     author = "Benedetto, Irene  and
