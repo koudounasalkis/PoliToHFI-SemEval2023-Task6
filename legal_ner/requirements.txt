@@ -4,4 +4,4 @@ scikit_learn==1.2.1
 spacy==3.4.4
 torch==1.13.1
 tqdm==4.66.3
-transformers==4.36.0
+transformers==4.38.0
