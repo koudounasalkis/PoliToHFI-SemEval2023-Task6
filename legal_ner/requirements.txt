@@ -2,6 +2,6 @@ nervaluate==0.1.8
 numpy==1.22.0
 scikit_learn==1.5.0
 spacy==3.4.4
-torch==1.13.1
+torch==2.2.0
 tqdm==4.66.3
 transformers==4.38.0
